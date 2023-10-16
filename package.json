@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "aes-js": "^3.1.2",
+    "hls.js": "^1.4.12",
+    "mux.js": "^6.3.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
